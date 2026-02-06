@@ -1,0 +1,10 @@
+{
+    "pc_stats": {
+        "watts_promedio": 250,
+        "nombre_equipo": "Ryzen5-1660S-Workstation"
+    },
+    "tarifa_electrica": {
+        "costo_kwh": 1.12,
+        "moneda": "MXN"
+    }
+}
